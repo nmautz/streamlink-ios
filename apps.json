@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "19.9.0",
+          "buildVersion": "19.9.0",
+          "date": "2026-09-29",
+          "localizedDescription": "The remote's More menu",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v19.9.0/StreamLink.ipa",
+          "size": 4012360,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "19.8.0",
           "buildVersion": "19.8.0",
           "date": "2026-09-29",
