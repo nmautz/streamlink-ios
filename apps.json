@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "19.8.0",
+          "buildVersion": "19.8.0",
+          "date": "2026-09-29",
+          "localizedDescription": "Device pairing removed",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v19.8.0/StreamLink.ipa",
+          "size": 4011257,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "19.6.0",
           "buildVersion": "19.6.0",
           "date": "2026-09-29",
