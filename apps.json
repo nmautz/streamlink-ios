@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "19.5.0",
+          "buildVersion": "19.5.0",
+          "date": "2026-09-29",
+          "localizedDescription": "Sleep timer, home-screen shortcuts, haptics",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v19.5.0/StreamLink.ipa",
+          "size": 4013089,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "19.4.1",
           "buildVersion": "19.4.1",
           "date": "2026-09-29",
