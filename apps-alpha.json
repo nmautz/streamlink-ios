@@ -19,18 +19,9 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "20.2.2",
-          "buildVersion": "20.2.2",
-          "date": "2026-10-02",
-          "localizedDescription": "The app asked for the PIN again the morning after",
-          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.2.2/StreamLink.ipa",
-          "size": 4065646,
-          "minOSVersion": "15.0"
-        },
-        {
           "version": "20.1.0",
           "buildVersion": "20.1.0",
-          "date": "2026-10-01",
+          "date": "2026-10-02",
           "localizedDescription": "The app follows your server's release channel",
           "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.1.0/StreamLink.ipa",
           "size": 4065646,
