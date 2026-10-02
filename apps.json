@@ -19,27 +19,9 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "20.0.1",
-          "buildVersion": "20.0.1",
-          "date": "2026-10-01",
-          "localizedDescription": "A download that was picked up again showed \"0 B\" beside its percentage",
-          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.0.1/StreamLink.ipa",
-          "size": 4064379,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "19.14.0",
-          "buildVersion": "19.14.0",
-          "date": "2026-10-01",
-          "localizedDescription": "The app finds your server; you no longer type its address",
-          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v19.14.0/StreamLink.ipa",
-          "size": 4054128,
-          "minOSVersion": "15.0"
-        },
-        {
           "version": "19.9.2",
           "buildVersion": "19.9.2",
-          "date": "2026-09-29",
+          "date": "2026-10-01",
           "localizedDescription": "The offline player refreshes whatever the download settings say",
           "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v19.9.2/StreamLink.ipa",
           "size": 4018021,
@@ -103,7 +85,7 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "StreamLink finds your StreamLink server on this network, and finds TVs to share what you are watching with (AirPlay or Chromecast)."
+          "NSLocalNetworkUsageDescription": "StreamLink finds TVs on this Wi-Fi and shares the episode you are watching with the one you pick (AirPlay or Chromecast)."
         }
       }
     }
