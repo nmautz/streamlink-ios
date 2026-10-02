@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "20.3.0",
+          "buildVersion": "20.3.0",
+          "date": "2026-10-02",
+          "localizedDescription": "The player's rotation lock really rotates the app",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.3.0/StreamLink.ipa",
+          "size": 4070322,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "20.1.0",
           "buildVersion": "20.1.0",
           "date": "2026-10-02",
