@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "20.6.1",
+          "buildVersion": "20.6.1",
+          "date": "2026-10-02",
+          "localizedDescription": "The voice download reaches the server, and Siri is told what it is for",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.6.1/StreamLink.ipa",
+          "size": 4107360,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "20.3.0",
           "buildVersion": "20.3.0",
           "date": "2026-10-02",
