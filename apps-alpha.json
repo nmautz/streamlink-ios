@@ -1,0 +1,40 @@
+{
+  "name": "StreamLink (alpha)",
+  "identifier": "com.streamlink.source.alpha",
+  "subtitle": "The StreamLink iOS app, alpha channel. For a server on the alpha branch.",
+  "description": "Install StreamLink through SideStore or AltStore and get updates without building the app yourself. The app is a client: it needs your own StreamLink server.",
+  "iconURL": "https://raw.githubusercontent.com/nmautz/streamlink-ios/main/icon.png",
+  "website": "https://github.com/nmautz/torrentstreamingtool",
+  "tintColor": "#1BA1E2",
+  "apps": [
+    {
+      "name": "StreamLink",
+      "bundleIdentifier": "com.streamlink.client",
+      "developerName": "Nathan Mautz",
+      "subtitle": "Your StreamLink library on your phone.",
+      "localizedDescription": "The iOS app for a StreamLink server. Browse and play your library, keep watching with the phone locked, send video to a TV with AirPlay or Chromecast, and download episodes to watch offline.\n\nYou need your own StreamLink server running at home. The app does nothing on its own.",
+      "iconURL": "https://raw.githubusercontent.com/nmautz/streamlink-ios/main/icon.png",
+      "tintColor": "#1BA1E2",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "20.1.0",
+          "buildVersion": "20.1.0",
+          "date": "2026-10-01",
+          "localizedDescription": "The app follows your server's release channel",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.1.0/StreamLink.ipa",
+          "size": 4065646,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "StreamLink finds your StreamLink server on this network, and finds TVs to share what you are watching with (AirPlay or Chromecast)."
+        }
+      }
+    }
+  ],
+  "news": []
+}
