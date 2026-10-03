@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "20.8.0",
+          "buildVersion": "20.8.0",
+          "date": "2026-10-02",
+          "localizedDescription": "Picture in Picture starts by itself, like YouTube",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.8.0/StreamLink.ipa",
+          "size": 4119504,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "20.7.0",
           "buildVersion": "20.7.0",
           "date": "2026-10-02",
