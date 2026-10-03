@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "20.8.3",
+          "buildVersion": "20.8.3",
+          "date": "2026-10-02",
+          "localizedDescription": "The last main-thread audio switch at PiP start",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.8.3/StreamLink.ipa",
+          "size": 4121081,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "20.8.2",
           "buildVersion": "20.8.2",
           "date": "2026-10-02",
