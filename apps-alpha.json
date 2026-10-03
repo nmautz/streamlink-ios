@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "20.8.1",
+          "buildVersion": "20.8.1",
+          "date": "2026-10-02",
+          "localizedDescription": "Playing on the phone no longer keeps pausing",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.8.1/StreamLink.ipa",
+          "size": 4119556,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "20.8.0",
           "buildVersion": "20.8.0",
           "date": "2026-10-02",
