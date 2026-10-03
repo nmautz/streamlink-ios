@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "20.8.2",
+          "buildVersion": "20.8.2",
+          "date": "2026-10-02",
+          "localizedDescription": "No blip at the start, or going into and out of PiP",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.8.2/StreamLink.ipa",
+          "size": 4121052,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "20.8.1",
           "buildVersion": "20.8.1",
           "date": "2026-10-02",
