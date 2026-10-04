@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "20.8.7",
+          "buildVersion": "20.8.7",
+          "date": "2026-10-03",
+          "localizedDescription": "A cast that stopped a second after the picture arrived",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.8.7/StreamLink.ipa",
+          "size": 4122137,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "20.8.6",
           "buildVersion": "20.8.6",
           "date": "2026-10-03",
