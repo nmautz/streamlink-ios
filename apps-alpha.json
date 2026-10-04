@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "20.8.8",
+          "buildVersion": "20.8.8",
+          "date": "2026-10-03",
+          "localizedDescription": "Two phones, one Chromecast",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.8.8/StreamLink.ipa",
+          "size": 4129697,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "20.8.7",
           "buildVersion": "20.8.7",
           "date": "2026-10-03",
