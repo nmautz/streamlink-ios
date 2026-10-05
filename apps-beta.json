@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "20.8.13",
+          "buildVersion": "20.8.13",
+          "date": "2026-10-05",
+          "localizedDescription": "Casting no longer pauses other apps",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.8.13/StreamLink.ipa",
+          "size": 4134204,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "20.6.1",
           "buildVersion": "20.6.1",
           "date": "2026-10-03",
