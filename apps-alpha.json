@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "20.13.3",
+          "buildVersion": "20.13.3",
+          "date": "2026-10-06",
+          "localizedDescription": "Picking a downloaded episode while casting no longer drops it onto the phone",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.13.3/StreamLink.ipa",
+          "size": 4133209,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "20.11.1",
           "buildVersion": "20.11.1",
           "date": "2026-10-04",
