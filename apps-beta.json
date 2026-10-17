@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "20.23.1",
+          "buildVersion": "20.23.1",
+          "date": "2026-10-17",
+          "localizedDescription": "Subtitles picked on the phone reach the glasses, a locked phone, AirPlay and Chromecast",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.23.1/StreamLink.ipa",
+          "size": 4163046,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "20.13.3",
           "buildVersion": "20.13.3",
           "date": "2026-10-08",
