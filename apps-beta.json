@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "20.30.0",
+          "buildVersion": "20.30.0",
+          "date": "2026-10-24",
+          "localizedDescription": "Fixed",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.30.0/StreamLink.ipa",
+          "size": 6414592,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "20.23.1",
           "buildVersion": "20.23.1",
           "date": "2026-10-17",
