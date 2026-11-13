@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "20.82.0",
+          "buildVersion": "20.82.0",
+          "date": "2026-11-13",
+          "localizedDescription": "StreamLink 20.82.0",
+          "downloadURL": "https://github.com/nmautz/streamlink-ios/releases/download/v20.82.0/StreamLink.ipa",
+          "size": 6552876,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "20.70.0",
           "buildVersion": "20.70.0",
           "date": "2026-11-06",
@@ -220,7 +229,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "StreamLink finds your StreamLink server on this network, and finds TVs to share what you are watching with (AirPlay or Chromecast)."
+          "NSLocalNetworkUsageDescription": "StreamLink finds your StreamLink server on this network, and finds TVs to share what you are watching with (AirPlay or Chromecast).",
+          "NSLocationWhenInUseUsageDescription": "StreamLink checks whether you are at home before it offers to play on your TV, so nothing starts on the TV while you are away."
         }
       }
     }
